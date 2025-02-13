@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 - **Git** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20">
 
 ESTADISTICAS DE GITHUB
-(https://github-readme-stats.vercel.app/api?username=Adrii-Dev&show_icons=true&theme=radical
+(https://github-readme-stats.vercel.app/api?username=Jorge221z&show_icons=true&theme=radical)
 
 ## 💻 Proyectos Destacados
 
