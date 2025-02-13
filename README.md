@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 - **Laravel** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20">
 - **Git** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20">
 
-MIS ESTADÍSTICAS
+<br>
 ![ESTADÍSTICAS DE GITHUB](https://github-readme-stats.vercel.app/api?username=Jorge221z&show_icons=true&theme=radical)
 
 ## 💻 Proyectos Destacados
