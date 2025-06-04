@@ -27,9 +27,8 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 
 <details>
 <summary>🖥️ **Frontend & UI**</summary>
-
-- **JavaScript (ES6+)**, **HTML5**, **CSS3** (Flexbox, Grid, Sass).  
-- Frameworks/Librerías: **React**, **Vue**, **Bootstrap**, **Tailwind CSS**.  
+  
+- Frameworks/Librerías: **React**, **Vue**, **Tailwind CSS**.  
 - Diseño **responsive**, experiencia de usuario (UX) y accesibilidad.  
 - Integración de componentes dinámicos y consumo de APIs desde el cliente.  
 </details>
@@ -98,15 +97,9 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 - API RESTful en Laravel que expone endpoints para CRUD de proyectos, comentarios y versiones.
 
 ### 3. Vinoteca (Proyecto Personal)  
-- E-commerce de vinos con sistema de **categorías**, **carrito de compras** y **pasarela de pago**.  
-- Autenticación y gestión de usuarios con roles (cliente, administrador).  
-- Backend en **Laravel** (Blade templates, validaciones, relaciones entre modelos).  
-- Frontend responsivo usando **Bootstrap** y adaptaciones con **JavaScript**.
-
-### 4. Solución a Limitaciones de Chatbots IA  
-- Desarrollo de un servicio para permitir cargas de múltiples archivos adjuntos a chatbots de IA, superando restricciones de plataformas estándar.  
-- Microservicio en **Node.js** que gestiona el almacenamiento temporal de archivos, conversión de formatos y envío controlado a APIs de IA (OpenAI, etc.).  
-- Frontend minimalista en **Vue.js** para carga y previsualización de documentos, imágenes y audio.
+- Aplicacion móvil derivada de la web de EmpleaWorks.  
+- permite a los usuarios buscar empleo desde sus dispositivos móviles.   
+- Incluye notificaciones en tiempo real y una interfaz intuitiva.  
 
 > **Portafolio Completo**: [jorgemunoz.pro](https://jorgemunoz.pro)  
 
@@ -127,12 +120,11 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 
 ## 📫 Contacto
 
-- **Email:** [jorge.muñoz@ejemplo.com](mailto:jorge.muñoz@ejemplo.com)  
+- **Email:** [jorge.muñoz@ejemplo.com](mailto:jorgemunozcast12@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/jorge-munoz-castillo](https://www.linkedin.com/in/jorge-munoz-castillo)  
-- **Twitter:** [@Jorge221z](https://twitter.com/Jorge221z)  
 - **Portfolio:** [jorgemunoz.pro](https://jorgemunoz.pro)
 
 ---
 
-> Gracias por visitar mi perfil. ¡Conversemos sobre cómo podemos crear soluciones innovadoras y pensar en el futuro de la tecnología juntos! 🚀
+> Gracias por visitar mi perfil! 🚀
 
