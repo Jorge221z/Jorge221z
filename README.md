@@ -104,8 +104,6 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 ### 4. LinkSight App  
 **Web**: [linksightapp.com](https://linksightapp.com/)  
 - Plataforma orientada a **data collaboration** y generación de insights entre organizaciones sin compartir datos sensibles.  
-- Enfoque en **data privacy**, **secure multi-party computation (MPC)** y **federated learning** para análisis conjunto seguro.  
-- Uso de **data governance** para definir reglas de acceso, ejecución de análisis y control de resultados compartidos.  
  
 > **Portafolio Completo**: [jorgemunoz.pro](https://jorgemunoz.pro)  
 
