@@ -101,6 +101,9 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 - permite a los usuarios buscar empleo desde sus dispositivos móviles.   
 - Incluye notificaciones en tiempo real y una interfaz intuitiva.  
 
+### 4. LinkSight App  
+**Web**: [linksightapp.com](https://linksightapp.com/)  
+ 
 > **Portafolio Completo**: [jorgemunoz.pro](https://jorgemunoz.pro)  
 
 ---
@@ -127,4 +130,3 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 ---
 
 > Gracias por visitar mi perfil! 🚀
-
