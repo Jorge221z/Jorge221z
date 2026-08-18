@@ -106,7 +106,6 @@ Desarrollador Web Full Stack & Mobile con enfoque vanguardista, apasionado por l
 - Plataforma orientada a **data collaboration** y generación de insights entre organizaciones sin compartir datos sensibles.  
 - Enfoque en **data privacy**, **secure multi-party computation (MPC)** y **federated learning** para análisis conjunto seguro.  
 - Uso de **data governance** para definir reglas de acceso, ejecución de análisis y control de resultados compartidos.  
-- Keywords relevantes de la página: **LinkSight**, **LinkSight App**, **linksightapp.com**.
  
 > **Portafolio Completo**: [jorgemunoz.pro](https://jorgemunoz.pro)  
 
